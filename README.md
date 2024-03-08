@@ -4,7 +4,7 @@ This is an example subgraph for Astar zkEVM Mainnet. It's simply the ERC721 subg
 
 Important piece is the `network` in [subgraph.yaml#7](./subgraph.yaml#7): It's set to: `astar-zkevm-mainnet`. Otherwise, the subgraph is normal. See the official [Quick Start on thegraph.com](https://thegraph.com/docs/en/quick-start/).
 
-It is published to The Graph Network. [Check it out](https://thegraph.com/explorer/subgraphs/HicrZaHRDR5GMRZJVCLQsR522wkAbYmejtu5vaUhTLfK?view=Overview&chain=arbitrum-one).
+It is published to The Graph Network. [Check it out](https://thegraph.com/explorer/subgraphs/2y3ZsLwq4gHVgdmsAf2SUQPz7ffdUf1n6rLFZtkFdooa?view=Playground&chain=arbitrum-one).
 
 ## Create a new subgraph indexing Astar zkEVM Mainnet
 
