@@ -4,7 +4,7 @@ This is an example subgraph for Ethereum Mainnet. It's simply the ERC721 subgrap
 
 Important piece is the `network` in [subgraph.yaml#7](./subgraph.yaml#7): It's set to: `mainnet`. Otherwise, the subgraph is normal. See the official [Quick Start on thegraph.com](https://thegraph.com/docs/en/quick-start/).
 
-It is published to The Graph Network. [Check it out](https://thegraph.com/explorer/subgraphs/2y3ZsLwq4gHVgdmsAf2SUQPz7ffdUf1n6rLFZtkFdooa?view=Playground&chain=arbitrum-one).
+It is published to The Graph Network. [Check it out](https://thegraph.com/explorer/subgraphs/F5Di1inbMhjhB1bzBbzGZJUigcRNoQ7jfQpr5oM5Z9Tn?view=Overview&chain=arbitrum-one).
 
 ## Create a new subgraph indexing Ethereum Mainnet
 

@@ -6,7 +6,7 @@
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
-    "deploy": "graph deploy --node https://api.studio.thegraph.com/deploy/ blast-erc721",
+    "deploy": "graph deploy --node https://api.studio.thegraph.com/deploy/ erc721-subgraph-mainnet",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
